@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Планировщик бюджета</string>
+    
+    <!-- Currency Rate Card -->
+    <string name="currency_rate_title">Курс USD к RUB</string>
+    <string name="previous_rate">Предыдущий: %1$.2f RUB</string>
+    <string name="error_loading_rate">Ошибка: %1$s</string>
+    <string name="refresh">Обновить</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Главная</string>
+    <string name="nav_budget">Бюджет</string>
+    <string name="nav_transactions">Транзакции</string>
+    <string name="nav_settings">Настройки</string>
+    
+    <!-- Budget Features -->
+    <string name="add_transaction">Добавить транзакцию</string>
+    <string name="income">Доход</string>
+    <string name="expense">Расход</string>
+    <string name="amount">Сумма</string>
+    <string name="category">Категория</string>
+    <string name="date">Дата</string>
+    <string name="description">Описание</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+    
+    <!-- Settings -->
+    <string name="theme_settings">Настройки темы</string>
+    <string name="dark_theme">Тёмная тема</string>
+    <string name="light_theme">Светлая тема</string>
+    <string name="system_theme">Системная</string>
+    <string name="language_settings">Настройки языка</string>
+    <string name="language_english">Английский</string>
+    <string name="language_russian">Русский</string>
+    
+    <!-- Error Messages -->
+    <string name="error_generic">Что-то пошло не так. Попробуйте снова.</string>
+    <string name="error_invalid_amount">Пожалуйста, введите корректную сумму</string>
+    <string name="error_network">Ошибка сети. Проверьте подключение.</string>
+</resources> 

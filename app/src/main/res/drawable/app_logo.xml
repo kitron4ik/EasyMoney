@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    
+    <!-- Фон логотипа (круг) -->
+    <path
+        android:pathData="M60,60m-56,0a56,56 0,1 1,112 0a56,56 0,1 1,-112 0"
+        android:fillColor="#2196F3" />
+    
+    <!-- Изображение кошелька/финансового символа -->
+    <path
+        android:pathData="M40,40L80,40L90,60L30,60Z"
+        android:fillColor="#FFFFFF" />
+    <path
+        android:pathData="M30,60L90,60L90,85Q90,90 85,90L35,90Q30,90 30,85L30,60Z"
+        android:fillColor="#FFFFFF" />
+    
+    <!-- Символ валюты $ -->
+    <path
+        android:pathData="M60,50L60,80M55,55L65,55M55,75L65,75"
+        android:strokeWidth="5"
+        android:strokeColor="#2196F3"
+        android:strokeLineCap="round" />
+</vector> 
